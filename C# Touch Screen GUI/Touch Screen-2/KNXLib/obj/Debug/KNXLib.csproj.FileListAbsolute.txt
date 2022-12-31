@@ -1,0 +1,18 @@
+C:\Users\masiy\.net_Projects\knx.net-master\src\KNXLib\bin\Debug\KNXLib.dll
+C:\Users\masiy\.net_Projects\knx.net-master\src\KNXLib\bin\Debug\KNXLib.pdb
+C:\Users\masiy\.net_Projects\knx.net-master\src\KNXLib\obj\Debug\KNXLib.csprojResolveAssemblyReference.cache
+C:\Users\masiy\.net_Projects\knx.net-master\src\KNXLib\obj\Debug\KNXLib.csproj.CoreCompileInputs.cache
+C:\Users\masiy\.net_Projects\knx.net-master\src\KNXLib\obj\Debug\KNXLib.dll
+C:\Users\masiy\.net_Projects\knx.net-master\src\KNXLib\obj\Debug\KNXLib.pdb
+G:\Backup\VS Projects\knx.net-master\src\KNXLib\bin\Debug\KNXLib.dll
+G:\Backup\VS Projects\knx.net-master\src\KNXLib\bin\Debug\KNXLib.pdb
+G:\Backup\VS Projects\knx.net-master\src\KNXLib\obj\Debug\KNXLib.csprojAssemblyReference.cache
+G:\Backup\VS Projects\knx.net-master\src\KNXLib\obj\Debug\KNXLib.csproj.CoreCompileInputs.cache
+G:\Backup\VS Projects\knx.net-master\src\KNXLib\obj\Debug\KNXLib.dll
+G:\Backup\VS Projects\knx.net-master\src\KNXLib\obj\Debug\KNXLib.pdb
+D:\Development\Touch Screen Projects\Touch Screen-2\KNXLib\bin\Debug\KNXLib.dll
+D:\Development\Touch Screen Projects\Touch Screen-2\KNXLib\bin\Debug\KNXLib.pdb
+D:\Development\Touch Screen Projects\Touch Screen-2\KNXLib\obj\Debug\KNXLib.csproj.CoreCompileInputs.cache
+D:\Development\Touch Screen Projects\Touch Screen-2\KNXLib\obj\Debug\KNXLib.dll
+D:\Development\Touch Screen Projects\Touch Screen-2\KNXLib\obj\Debug\KNXLib.pdb
+D:\Development\Touch Screen Projects\Touch Screen-2\KNXLib\obj\Debug\KNXLib.csprojAssemblyReference.cache

@@ -1,0 +1,22 @@
+D:\Development\Touch Screen Projects\Touch Screen-2\bin\Debug\Touch Screen-2.exe.config
+D:\Development\Touch Screen Projects\Touch Screen-2\bin\Debug\Touch Screen-2.exe
+D:\Development\Touch Screen Projects\Touch Screen-2\bin\Debug\Touch Screen-2.pdb
+D:\Development\Touch Screen Projects\Touch Screen-2\bin\Debug\KNXLib.dll
+D:\Development\Touch Screen Projects\Touch Screen-2\bin\Debug\System.Data.SQLite.dll
+D:\Development\Touch Screen Projects\Touch Screen-2\bin\Debug\KNXLib.pdb
+D:\Development\Touch Screen Projects\Touch Screen-2\bin\Debug\System.Data.SQLite.xml
+D:\Development\Touch Screen Projects\Touch Screen-2\bin\Debug\System.Data.SQLite.dll.config
+D:\Development\Touch Screen Projects\Touch Screen-2\obj\Debug\Touch Screen-2.csprojAssemblyReference.cache
+D:\Development\Touch Screen Projects\Touch Screen-2\obj\Debug\MainWindow.g.cs
+D:\Development\Touch Screen Projects\Touch Screen-2\obj\Debug\App.g.cs
+D:\Development\Touch Screen Projects\Touch Screen-2\obj\Debug\Touch Screen-2_MarkupCompile.cache
+D:\Development\Touch Screen Projects\Touch Screen-2\obj\Debug\Touch Screen-2_MarkupCompile.lref
+D:\Development\Touch Screen Projects\Touch Screen-2\obj\Debug\Styles\Styles.baml
+D:\Development\Touch Screen Projects\Touch Screen-2\obj\Debug\MainWindow.baml
+D:\Development\Touch Screen Projects\Touch Screen-2\obj\Debug\Touch Screen-2.g.resources
+D:\Development\Touch Screen Projects\Touch Screen-2\obj\Debug\Touch_Screen_2.Properties.Resources.resources
+D:\Development\Touch Screen Projects\Touch Screen-2\obj\Debug\Touch Screen-2.csproj.GenerateResource.cache
+D:\Development\Touch Screen Projects\Touch Screen-2\obj\Debug\Touch Screen-2.csproj.CoreCompileInputs.cache
+D:\Development\Touch Screen Projects\Touch Screen-2\obj\Debug\Touch Screen-2.csproj.CopyComplete
+D:\Development\Touch Screen Projects\Touch Screen-2\obj\Debug\Touch Screen-2.exe
+D:\Development\Touch Screen Projects\Touch Screen-2\obj\Debug\Touch Screen-2.pdb

@@ -1,0 +1,36 @@
+﻿<Window x:Class="TouchScreen.Thermostat"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TouchScreen"
+        mc:Ignorable="d"
+        Title="Thermostat1" Height="220" Width="214.916" ResizeMode="NoResize" WindowStyle="None" AllowDrop="True" BorderThickness="0" SnapsToDevicePixels="True" Topmost="True">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/TouchScreen;component/Styles/Styles.xaml">
+                </ResourceDictionary>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Window.Background>
+        <ImageBrush ImageSource="BlackGlass.png"/>
+    </Window.Background>
+    <Grid Cursor="Hand" Margin="0,0,10,-0.333">
+        <TextBox x:Name="Display" HorizontalAlignment="Left" HorizontalContentAlignment="right" Height="39" Margin="29,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="100" Background="{x:Null}" Foreground="White" FontFamily="Digital-7" FontSize="40" BorderBrush="{x:Null}" Text="23.5" UndoLimit="102"/>
+        <Button x:Name="IncTemp" Style="{StaticResource ACbutton}" Content="5" HorizontalAlignment="Left" Height="30" Margin="125,94,0,0" VerticalAlignment="Top" Width="30" Background="{x:Null}" Foreground="White" FontFamily="Webdings" FontSize="26" BorderBrush="{x:Null}" Click="IncTemp_Click" TextOptions.TextHintingMode="Animated"/>
+        <Button x:Name="DecTemp" Style="{StaticResource ACbutton}"  Content="6" HorizontalAlignment="Left" Height="30" Margin="55,94,0,0" VerticalAlignment="Top" Width="30" Background="{x:Null}" Foreground="White" FontFamily="Webdings" FontSize="26" BorderBrush="{x:Null}" Click="DecTemp_Click" TextOptions.TextHintingMode="Animated"/>
+        <Button x:Name="ACsw" Style="{StaticResource ACbutton}"  Content="1"  HorizontalAlignment="Left" Height="30" Margin="125,140,0,0" VerticalAlignment="Top" Width="30" Click="ACsw_Click" Background="Black" Foreground="{x:Null}" FontFamily="Berlin Sans FB" FontSize="16"/>
+        <Button x:Name="Liv_ACsw" Style="{StaticResource ACbutton}"  HorizontalAlignment="Left" Height="20" Margin="449,252,0,0" VerticalAlignment="Top" Width="30" Click="ACsw_Click" Foreground="Black" BorderBrush="{x:Null}" FontFamily="Calibri" FontSize="14" Background="{x:Null}" Content="1"/>
+        <Button x:Name="ACspeed" Style="{StaticResource ACbutton}"  Content="" HorizontalAlignment="Left" Height="30" Margin="55,140,0,0" VerticalAlignment="Top" Width="30" Background="Black" Foreground="{x:Null}" FontFamily="Berlin Sans FB" FontSize="16" Click="ACspeed_Click"/>
+        <Button Content="x" Style="{StaticResource ACbutton}" HorizontalAlignment="Left" Height="20" Margin="185,10,-0.333,0" VerticalAlignment="Top" Width="20" Background="{x:Null}" Foreground="#FF826E6E" Click="Button_Click" FontSize="16"/>
+        <Label Content="FAN" HorizontalAlignment="Left" HorizontalContentAlignment="Center" VerticalAlignment="Top" Margin="50,175,0,0" Height="25" FontSize="12" Width="40" Opacity="1" Foreground="#FF939393"/>
+        <Label Content="AUTO" HorizontalAlignment="Left" HorizontalContentAlignment="Center" VerticalAlignment="Top" Margin="121,175,0,0" Height="25" FontSize="12" Width="40" Opacity="1" Foreground="#FF939393"/>
+        <Label x:Name="lblName" Content="" HorizontalAlignment="Left" HorizontalContentAlignment="Center" VerticalAlignment="Top" Margin="25,10,0,0" Height="25" FontSize="12" Width="155" Opacity="1" Foreground="#FF939393"/>
+        <Label Content="C" HorizontalAlignment="Left" HorizontalContentAlignment="Center" VerticalAlignment="Top" Margin="134,52,0,0" Height="34" FontSize="20" Width="25" Opacity="1" Foreground="White" FontFamily="Digital-7"/>
+        <Label Content="o" HorizontalAlignment="Left" HorizontalContentAlignment="Center" VerticalAlignment="Top" Margin="120,47,0,0" Height="25" FontSize="16" Width="30" Opacity="1" Foreground="White" FontFamily="Digital-7"/>
+        <Label Content="TEMP" HorizontalAlignment="Left" HorizontalContentAlignment="Center" VerticalAlignment="Top" Margin="85,98,0,0" Height="26" FontSize="12" Width="40" Opacity="1" Foreground="#FF939393"/>
+
+    </Grid>
+</Window>
